@@ -12,4 +12,4 @@ Making the client - fishertoucher
 Cracking - Ykela
 
 # GUI
-https://github.com/Tehnicki1/Xyla/blob/main/GUI.png?raw=true
+![Gui](https://github.com/user-attachments/assets/0de24cb2-01b3-4c77-8e14-756668355d12)
