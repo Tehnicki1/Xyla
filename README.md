@@ -8,7 +8,7 @@ Xyla is a 1.21 minecraft cheat w not that good of a gui, no obf and bad modules.
 4. Right shift to open the gui
 
 # Credits 🫡
-Making the client - fishertoucher
+Making the client - fishertoucher <br>
 Cracking - Ykela
 
 # GUI
